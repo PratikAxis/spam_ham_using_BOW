@@ -35,20 +35,18 @@ Load and preprocess SMS text data --> Convert text into numerical vectors using 
 
     The model achieves high accuracy (~95%+) on unseen data and correctly classifies spam and non-spam messages.
 
-### Key Learning Outcomes
+## Key Learning Outcomes
 
-### Text preprocessing and feature extraction
+Text preprocessing and feature extraction
 
-### Working of Bag of Words
+Working of Bag of Words
 
-### Applying Naive Bayes for text classification
+Applying Naive Bayes for text classification
 
-### Understanding limitations of BoW
+Understanding limitations of BoW
 
 ## Future Improvements
 
-### Use TF-IDF instead of BoW
-
-### Add bigram features
-
-### Deploy using Streamlit
+Use TF-IDF instead of BoW
+Add bigram features
+Deploy using Streamlit
